@@ -71,6 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-We would like to thank **Jeff Sackmann** for the historical ATP match data, which is the foundation of this project. The dataset can be found in the [tennis_atp repository](https://github.com/JeffSackmann/tennis_atp).
+I would like to thank **Jeff Sackmann** for the historical ATP match data, which is the foundation of this project. The dataset can be found in the [tennis_atp repository](https://github.com/JeffSackmann/tennis_atp).
 
 ---
