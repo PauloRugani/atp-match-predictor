@@ -1,15 +1,5 @@
 from pydantic import BaseModel
 from typing import Optional
-from datetime import date
-
-class Player(BaseModel):
-    PLAYER_ID: str
-    FIRST_NAME: str
-    LAST_NAME: str
-    HAND: Optional[str] = None
-    BIRTHDATE: Optional[date] = None
-    COUNTRY: Optional[str] = None
-    HEIGHT: Optional[float] = None
 
 class PlayerStats(BaseModel):
     PLAYER_ID: str
@@ -24,8 +14,3 @@ class PlayerStats(BaseModel):
     PERC_WIN_LAST_100: float
     PERC_WIN_COMBINED: float
 
-class MatchH2H(BaseModel):
-    PLAYER1_ID: str
-    PLAYER2_ID: str
-    PLAYER1_WINS: int
-    PLAYER2_WINS: int

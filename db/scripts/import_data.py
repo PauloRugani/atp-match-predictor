@@ -1,9 +1,14 @@
 import csv
 import json
 from datetime import datetime
-from models import Player, PlayerStats, MatchH2H
-from repository import insert_player, insert_player_stats, insert_h2h_match
-from schema import create_tables
+from models.Player import Player
+from models.PlayerStats import PlayerStats
+from models.MatchH2H import MatchH2H
+from utils.main import clear_table
+from repository.player_repository import insert_player
+from repository.player_stats_repository import insert_player_stats
+from repository.h2h_matches_repository import insert_h2h_match
+from schema.schema import create_tables
 
 def parse_date(val):
     if not val or val.strip() == "":
@@ -71,6 +76,9 @@ def import_h2h_matches(json_path: str) -> None:
 
 if __name__ == "__main__":
     create_tables()
+    # clear_table('players')
     import_players(r'data\raw\atp_players.csv')
+    # clear_table('player_stats')
     import_player_stats_json(r'data\players_ratings.json')
+    # clear_table('matches_h2h')
     import_h2h_matches(r'data\players_h2h.json')
