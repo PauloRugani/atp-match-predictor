@@ -1,14 +1,14 @@
 import csv
 import json
 from datetime import datetime
-from models.Player import Player
-from models.PlayerStats import PlayerStats
-from models.MatchH2H import MatchH2H
-from utils.main import clear_table
-from repository.player_repository import insert_player
-from repository.player_stats_repository import insert_player_stats
-from repository.h2h_matches_repository import insert_h2h_match
-from schema.schema import create_tables
+from database.models.Player import Player
+from database.models.PlayerStats import PlayerStats
+from database.models.MatchH2H import MatchH2H
+from database.utils.main import clear_table
+from database.repository.player_repository import insert_player
+from database.repository.player_stats_repository import insert_player_stats
+from database.repository.h2h_matches_repository import insert_h2h_match
+from database.schema.schema import create_tables
 
 def parse_date(val):
     if not val or val.strip() == "":

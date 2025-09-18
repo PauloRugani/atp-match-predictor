@@ -1,4 +1,4 @@
-from models.PlayerStats import PlayerStats
+from database.models.PlayerStats import PlayerStats
 import sqlite3
 from dotenv import load_dotenv
 import os
@@ -43,7 +43,6 @@ def get_player_stats_by_name(first_name: str, last_name: str) -> Optional[Player
         """, (first_name, last_name))
 
         row = cursor.fetchone()
-        print(row)
     if row:
         return PlayerStats(
             PLAYER_ID=row[0],

@@ -1,4 +1,4 @@
-from models.MatchH2H import MatchH2H
+from database.models.MatchH2H import MatchH2H
 import sqlite3
 from dotenv import load_dotenv
 import os

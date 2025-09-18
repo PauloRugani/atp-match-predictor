@@ -1,4 +1,4 @@
-from models.Player import Player
+from database.models.Player import Player
 import sqlite3
 from dotenv import load_dotenv
 import os
