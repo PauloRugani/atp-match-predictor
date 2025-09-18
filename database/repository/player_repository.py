@@ -25,9 +25,26 @@ def insert_player(player: Player):
     conn.commit()
     conn.close()
 
-def clear_table(table_name: str):
+def get_player_by_name(first_name: str, last_name: str) -> Player | None:
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
-    cursor.execute(f"DELETE FROM {table_name}")
-    conn.commit()
+    cursor.execute("""
+        SELECT PLAYER_ID, HAND, BIRTHDATE, COUNTRY, HEIGHT
+        FROM players
+        WHERE FIRST_NAME = ? AND LAST_NAME = ?
+    """, (
+        first_name, last_name
+    ))
+    row = cursor.fetchone()
     conn.close()
+    if row:
+        return Player(
+            PLAYER_ID=row[0],
+            FIRST_NAME=first_name,
+            LAST_NAME=last_name,
+            HAND=row[1],
+            BIRTHDATE=row[2],
+            COUNTRY=row[3],
+            HEIGHT=row[4] 
+        )
+    return None
