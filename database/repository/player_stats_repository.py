@@ -57,4 +57,16 @@ def get_player_stats_by_name(first_name: str, last_name: str) -> Optional[Player
             PERC_WIN_LAST_100=row[9],
             PERC_WIN_COMBINED=row[10]
         )
-    return None
+    return PlayerStats(
+            PLAYER_ID='xxxxxx',
+            CLAY_RATING=2000,
+            RATING=2000,
+            GRASS_RATING=2000,
+            HARD_RATING=2000,
+            CARPET_RATING=2000,
+            PERC_WIN_LAST_10=0,
+            PERC_WIN_LAST_25=0,
+            PERC_WIN_LAST_50=0,
+            PERC_WIN_LAST_100=0,
+            PERC_WIN_COMBINED=0
+        )

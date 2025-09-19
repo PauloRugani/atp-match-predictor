@@ -39,4 +39,9 @@ def get_h2h_match(player1_id: int, player2_id: int) -> MatchH2H | None:
             PLAYER1_WINS=row[2],
             PLAYER2_WINS=row[3]
         )
-    return None
+    return MatchH2H(
+            PLAYER1_ID=player1_id,
+            PLAYER2_ID=player2_id,
+            PLAYER1_WINS=0,
+            PLAYER2_WINS=0
+        )
