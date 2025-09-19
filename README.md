@@ -34,11 +34,20 @@ The project is organized as follows:
 
 ```
 ├── data
+│ ├── external/
 │ ├── processed/
 │ ├── raw/
-├── models/
+├── database/
+│ ├── models/
+│ ├── repository/
+│ ├── schema/
+│ ├── scripts/
+│ ├── utils/
+├── model/
 ├── notebooks/
 ├── src/
+│ ├── bot/
+│ ├── controller/
 ├── requirements.txt
 └── README.md
 ```
