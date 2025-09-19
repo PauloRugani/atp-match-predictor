@@ -1,22 +1,29 @@
 import pandas as pd
 from src.controller.main import predict_winner
 from typing import List, Tuple
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix
 import csv
 
 def run() -> Tuple[List[dict], float]:
     ao_open_matches = pd.read_csv(r'data\external\australia_open_matches.csv', sep=',', encoding='utf-8')
     results = []
+    model_result = []
     correct = 0
     for _, row in ao_open_matches.iterrows():
         result = predict_winner(row['player_0'], row['player_1'], 5, 'HARD')
 
         if result == 0:
             winner = row['player_0']
+            model_result.append(0)
             correct += 1
         elif result == 1:
             winner = row['player_1']
+            model_result.append(1)
         else:
             winner = 'Informações insuficientes para prever o resultado.'
+            model_result.append(1)
 
         results.append({
             'player_0': row['player_0'],
@@ -25,10 +32,15 @@ def run() -> Tuple[List[dict], float]:
             'real_winner': row['player_0'] # player_0 is the winner
         })
     accuracy = round((correct / len(ao_open_matches)), 2)
-    return results, accuracy
+    return results, accuracy, model_result
 
-ao_predict_result, accuracy = run()
+ao_predict_result, accuracy, model_result = run()
 print(f'Accuracy: {accuracy * 100}%')
+
+matrix = confusion_matrix(model_result, [0 for _ in range(1, 128)])
+plt.figure()
+sns.heatmap(matrix, annot=True, fmt='d')
+plt.show()
 
 with open('./data/external/australia_open_predict.csv', mode='w', encoding='utf-8', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=['player_0', 'player_1', 'predicted_winner', 'real_winner'])
