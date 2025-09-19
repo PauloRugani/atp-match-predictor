@@ -1,101 +1,101 @@
 player_0,player_1,predicted_winner,real_winner
 Jannik Sinner,Alexander Zverev,Jannik Sinner,Jannik Sinner
-Jannik Sinner,Ben Shelton,Jannik Sinner,Jannik Sinner
-Alexander Zverev,Novak Djokovic,Alexander Zverev,Alexander Zverev
+Ben Shelton,Jannik Sinner,Jannik Sinner,Jannik Sinner
+Novak Djokovic,Alexander Zverev,Novak Djokovic,Alexander Zverev
 Jannik Sinner,Alex De Minaur,Jannik Sinner,Jannik Sinner
 Ben Shelton,Lorenzo Sonego,Ben Shelton,Ben Shelton
 Novak Djokovic,Carlos Alcaraz,Novak Djokovic,Novak Djokovic
-Alexander Zverev,Tommy Paul,Alexander Zverev,Alexander Zverev
+Tommy Paul,Alexander Zverev,Alexander Zverev,Alexander Zverev
 Jannik Sinner,Holger Rune,Jannik Sinner,Jannik Sinner
-Alex De Minaur,Alex Michelsen,Alex De Minaur,Alex De Minaur
-Ben Shelton,Gael Monfils,Ben Shelton,Ben Shelton
+Alex Michelsen,Alex De Minaur,Alex De Minaur,Alex De Minaur
+Gael Monfils,Ben Shelton,Ben Shelton,Ben Shelton
 Lorenzo Sonego,Learner Tien,Lorenzo Sonego,Lorenzo Sonego
-Novak Djokovic,Jiri Lehecka,Novak Djokovic,Novak Djokovic
+Jiri Lehecka,Novak Djokovic,Novak Djokovic,Novak Djokovic
 Carlos Alcaraz,Jack Draper,Carlos Alcaraz,Carlos Alcaraz
-Tommy Paul,Alejandro Davidovich Fokina,Tommy Paul,Tommy Paul
+Alejandro Davidovich Fokina,Tommy Paul,Tommy Paul,Tommy Paul
 Alexander Zverev,Ugo Humbert,Alexander Zverev,Alexander Zverev
 Jannik Sinner,Marcos Giron,Jannik Sinner,Jannik Sinner
-Holger Rune,Miomir Kecmanovic,Holger Rune,Holger Rune
-Alex Michelsen,Karen Khachanov,Karen Khachanov,Alex Michelsen
-Alex De Minaur,Francisco Cerundolo,Alex De Minaur,Alex De Minaur
+Miomir Kecmanovic,Holger Rune,Holger Rune,Holger Rune
+Karen Khachanov,Alex Michelsen,Karen Khachanov,Alex Michelsen
+Francisco Cerundolo,Alex De Minaur,Alex De Minaur,Alex De Minaur
 Gael Monfils,Taylor Fritz,Taylor Fritz,Gael Monfils
 Ben Shelton,Lorenzo Musetti,Ben Shelton,Ben Shelton
 Lorenzo Sonego,Fabian Marozsan,Fabian Marozsan,Lorenzo Sonego
-Learner Tien,Corentin Moutet,Learner Tien,Learner Tien
+Corentin Moutet,Learner Tien,Learner Tien,Learner Tien
 Novak Djokovic,Tomas Machac,Novak Djokovic,Novak Djokovic
-Jiri Lehecka,Benjamin Bonzi,Jiri Lehecka,Jiri Lehecka
-Jack Draper,Aleksandar Vukic,Jack Draper,Jack Draper
-Carlos Alcaraz,Nuno Borges,Carlos Alcaraz,Carlos Alcaraz
-Alejandro Davidovich Fokina,Jakub Mensik,Informações insuficientes para prever o resultado.,Alejandro Davidovich Fokina
-Tommy Paul,Roberto Carballes Baena,Tommy Paul,Tommy Paul
+Benjamin Bonzi,Jiri Lehecka,Jiri Lehecka,Jiri Lehecka
+Aleksandar Vukic,Jack Draper,Jack Draper,Jack Draper
+Nuno Borges,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+Jakub Mensik,Alejandro Davidovich Fokina,Informações insuficientes para prever o resultado.,Alejandro Davidovich Fokina
+Roberto Carballes Baena,Tommy Paul,Tommy Paul,Tommy Paul
 Ugo Humbert,Arthur Fils,Ugo Humbert,Ugo Humbert
-Alexander Zverev,Jacob Fearnley,Alexander Zverev,Alexander Zverev
-Jannik Sinner,Tristan Schoolkate,Jannik Sinner,Jannik Sinner
-Marcos Giron,Tomas Martin Etcheverry,Informações insuficientes para prever o resultado.,Marcos Giron
+Jacob Fearnley,Alexander Zverev,Alexander Zverev,Alexander Zverev
+Tristan Schoolkate,Jannik Sinner,Jannik Sinner,Jannik Sinner
+Tomas Martin Etcheverry,Marcos Giron,Informações insuficientes para prever o resultado.,Marcos Giron
 Miomir Kecmanovic,Hubert Hurkacz,Hubert Hurkacz,Miomir Kecmanovic
 Holger Rune,Matteo Berrettini,Holger Rune,Holger Rune
-Alex Michelsen,James Mccabe,Alex Michelsen,Alex Michelsen
+James Mccabe,Alex Michelsen,Alex Michelsen,Alex Michelsen
 Karen Khachanov,Gabriel Diallo,Karen Khachanov,Karen Khachanov
 Francisco Cerundolo,Facundo Diaz Acosta,Francisco Cerundolo,Francisco Cerundolo
 Alex De Minaur,Tristan Boyer,Alex De Minaur,Alex De Minaur
 Taylor Fritz,Cristian Garin,Taylor Fritz,Taylor Fritz
 Gael Monfils,Daniel Altmaier,Gael Monfils,Gael Monfils
 Ben Shelton,Pablo Carreno Busta,Ben Shelton,Ben Shelton
-Lorenzo Musetti,Denis Shapovalov,Denis Shapovalov,Lorenzo Musetti
+Denis Shapovalov,Lorenzo Musetti,Denis Shapovalov,Lorenzo Musetti
 Lorenzo Sonego,Joao Fonseca,Joao Fonseca,Lorenzo Sonego
 Fabian Marozsan,Frances Tiafoe,Fabian Marozsan,Fabian Marozsan
 Corentin Moutet,Mitchell Krueger,Corentin Moutet,Corentin Moutet
-Learner Tien,Daniil Medvedev,Daniil Medvedev,Learner Tien
+Daniil Medvedev,Learner Tien,Daniil Medvedev,Learner Tien
 Novak Djokovic,Jaime Faria,Novak Djokovic,Novak Djokovic
-Tomas Machac,Reilly Opelka,Tomas Machac,Tomas Machac
-Jiri Lehecka,Hugo Gaston,Jiri Lehecka,Jiri Lehecka
-Benjamin Bonzi,Francesco Passaro,Benjamin Bonzi,Benjamin Bonzi
-Jack Draper,Thanasi Kokkinakis,Jack Draper,Jack Draper
+Reilly Opelka,Tomas Machac,Tomas Machac,Tomas Machac
+Hugo Gaston,Jiri Lehecka,Jiri Lehecka,Jiri Lehecka
+Francesco Passaro,Benjamin Bonzi,Benjamin Bonzi,Benjamin Bonzi
+Thanasi Kokkinakis,Jack Draper,Jack Draper,Jack Draper
 Aleksandar Vukic,Sebastian Korda,Sebastian Korda,Aleksandar Vukic
 Nuno Borges,Jordan Thompson,Jordan Thompson,Nuno Borges
 Carlos Alcaraz,Yoshihito Nishioka,Carlos Alcaraz,Carlos Alcaraz
-Jakub Mensik,Casper Ruud,Informações insuficientes para prever o resultado.,Jakub Mensik
+Casper Ruud,Jakub Mensik,Informações insuficientes para prever o resultado.,Jakub Mensik
 Alejandro Davidovich Fokina,Felix Auger Aliassime,Felix Auger Aliassime,Alejandro Davidovich Fokina
-Roberto Carballes Baena,James Duckworth,Roberto Carballes Baena,Roberto Carballes Baena
+James Duckworth,Roberto Carballes Baena,Roberto Carballes Baena,Roberto Carballes Baena
 Tommy Paul,Kei Nishikori,Tommy Paul,Tommy Paul
-Ugo Humbert,Hady Habib,Ugo Humbert,Ugo Humbert
+Hady Habib,Ugo Humbert,Ugo Humbert,Ugo Humbert
 Arthur Fils,Quentin Halys,Arthur Fils,Arthur Fils
 Jacob Fearnley,Arthur Cazaux,Arthur Cazaux,Jacob Fearnley
 Alexander Zverev,Pedro Martinez,Alexander Zverev,Alexander Zverev
 Jannik Sinner,Nicolas Jarry,Jannik Sinner,Jannik Sinner
-Tristan Schoolkate,Taro Daniel,Taro Daniel,Tristan Schoolkate
+Taro Daniel,Tristan Schoolkate,Taro Daniel,Tristan Schoolkate
 Marcos Giron,Yannick Hanfmann,Marcos Giron,Marcos Giron
-Tomas Martin Etcheverry,Flavio Cobolli,Informações insuficientes para prever o resultado.,Tomas Martin Etcheverry
-Hubert Hurkacz,Tallon Griekspoor,Hubert Hurkacz,Hubert Hurkacz
-Miomir Kecmanovic,Dusan Lajovic,Miomir Kecmanovic,Miomir Kecmanovic
-Matteo Berrettini,Cameron Norrie,Matteo Berrettini,Matteo Berrettini
-Holger Rune,Zhizhen Zhang,Holger Rune,Holger Rune
-Alex Michelsen,Stefanos Tsitsipas,Stefanos Tsitsipas,Alex Michelsen
+Flavio Cobolli,Tomas Martin Etcheverry,Informações insuficientes para prever o resultado.,Tomas Martin Etcheverry
+Tallon Griekspoor,Hubert Hurkacz,Hubert Hurkacz,Hubert Hurkacz
+Dusan Lajovic,Miomir Kecmanovic,Miomir Kecmanovic,Miomir Kecmanovic
+Cameron Norrie,Matteo Berrettini,Matteo Berrettini,Matteo Berrettini
+Zhizhen Zhang,Holger Rune,Holger Rune,Holger Rune
+Stefanos Tsitsipas,Alex Michelsen,Stefanos Tsitsipas,Alex Michelsen
 James Mccabe,Martin Landaluce,James Mccabe,James Mccabe
 Gabriel Diallo,Luca Nardi,Gabriel Diallo,Gabriel Diallo
 Karen Khachanov,Adrian Mannarino,Karen Khachanov,Karen Khachanov
-Francisco Cerundolo,Alexander Bublik,Francisco Cerundolo,Francisco Cerundolo
+Alexander Bublik,Francisco Cerundolo,Francisco Cerundolo,Francisco Cerundolo
 Facundo Diaz Acosta,Zizou Bergs,Zizou Bergs,Facundo Diaz Acosta
-Tristan Boyer,Federico Coria,Federico Coria,Tristan Boyer
+Federico Coria,Tristan Boyer,Federico Coria,Tristan Boyer
 Alex De Minaur,Botic Van De Zandschulp,Alex De Minaur,Alex De Minaur
-Taylor Fritz,Jenson Brooksby,Taylor Fritz,Taylor Fritz
-Cristian Garin,Borna Coric,Borna Coric,Cristian Garin
-Daniel Altmaier,Francisco Comesana,Daniel Altmaier,Daniel Altmaier
-Gael Monfils,Giovanni Mpetshi Perricard,Gael Monfils,Gael Monfils
+Jenson Brooksby,Taylor Fritz,Taylor Fritz,Taylor Fritz
+Borna Coric,Cristian Garin,Borna Coric,Cristian Garin
+Francisco Comesana,Daniel Altmaier,Daniel Altmaier,Daniel Altmaier
+Giovanni Mpetshi Perricard,Gael Monfils,Gael Monfils,Gael Monfils
 Ben Shelton,Brandon Nakashima,Ben Shelton,Ben Shelton
-Pablo Carreno Busta,Kamil Majchrzak,Pablo Carreno Busta,Pablo Carreno Busta
-Denis Shapovalov,Roberto Bautista Agut,Denis Shapovalov,Denis Shapovalov
-Lorenzo Musetti,Matteo Arnaldi,Matteo Arnaldi,Lorenzo Musetti
-Joao Fonseca,Andrey Rublev,Andrey Rublev,Joao Fonseca
+Kamil Majchrzak,Pablo Carreno Busta,Pablo Carreno Busta,Pablo Carreno Busta
+Roberto Bautista Agut,Denis Shapovalov,Denis Shapovalov,Denis Shapovalov
+Matteo Arnaldi,Lorenzo Musetti,Lorenzo Musetti,Lorenzo Musetti
+Andrey Rublev,Joao Fonseca,Andrey Rublev,Joao Fonseca
 Lorenzo Sonego,Stan Wawrinka,Lorenzo Sonego,Lorenzo Sonego
-Fabian Marozsan,Thiago Seyboth Wild,Fabian Marozsan,Fabian Marozsan
-Frances Tiafoe,Arthur Rinderknech,Frances Tiafoe,Frances Tiafoe
-Corentin Moutet,Alexei Popyrin,Alexei Popyrin,Corentin Moutet
+Thiago Seyboth Wild,Fabian Marozsan,Fabian Marozsan,Fabian Marozsan
+Arthur Rinderknech,Frances Tiafoe,Frances Tiafoe,Frances Tiafoe
+Alexei Popyrin,Corentin Moutet,Alexei Popyrin,Corentin Moutet
 Mitchell Krueger,Rinky Hijikata,Rinky Hijikata,Mitchell Krueger
-Learner Tien,Camilo Ugo Carabelli,Learner Tien,Learner Tien
-Daniil Medvedev,Kasidit Samrej,Daniil Medvedev,Daniil Medvedev
+Camilo Ugo Carabelli,Learner Tien,Learner Tien,Learner Tien
+Kasidit Samrej,Daniil Medvedev,Daniil Medvedev,Daniil Medvedev
 Novak Djokovic,Nishesh Basavareddy,Novak Djokovic,Novak Djokovic
-Jaime Faria,Pavel Kotov,Pavel Kotov,Jaime Faria
+Pavel Kotov,Jaime Faria,Pavel Kotov,Jaime Faria
 Reilly Opelka,Gauthier Onclin,Reilly Opelka,Reilly Opelka
 Tomas Machac,Sumit Nagal,Tomas Machac,Tomas Machac
 Jiri Lehecka,Li Tu,Jiri Lehecka,Jiri Lehecka
@@ -103,26 +103,26 @@ Hugo Gaston,Omar Jasika,Hugo Gaston,Hugo Gaston
 Benjamin Bonzi,David Goffin,Benjamin Bonzi,Benjamin Bonzi
 Francesco Passaro,Grigor Dimitrov,Grigor Dimitrov,Francesco Passaro
 Jack Draper,Mariano Navone,Jack Draper,Jack Draper
-Thanasi Kokkinakis,Roman Safiullin,Roman Safiullin,Thanasi Kokkinakis
-Aleksandar Vukic,Damir Dzumhur,Aleksandar Vukic,Aleksandar Vukic
-Sebastian Korda,Lukas Klein,Sebastian Korda,Sebastian Korda
+Roman Safiullin,Thanasi Kokkinakis,Thanasi Kokkinakis,Thanasi Kokkinakis
+Damir Dzumhur,Aleksandar Vukic,Aleksandar Vukic,Aleksandar Vukic
+Lukas Klein,Sebastian Korda,Sebastian Korda,Sebastian Korda
 Jordan Thompson,Dominik Koepfer,Jordan Thompson,Jordan Thompson
 Nuno Borges,Alexandre Muller,Nuno Borges,Nuno Borges
-Yoshihito Nishioka,Aziz Dougaz,Yoshihito Nishioka,Yoshihito Nishioka
-Carlos Alcaraz,Alexander Shevchenko,Carlos Alcaraz,Carlos Alcaraz
-Casper Ruud,Jaume Munar,Casper Ruud,Casper Ruud
-Jakub Mensik,Nikoloz Basilashvili,Informações insuficientes para prever o resultado.,Jakub Mensik
+Aziz Dougaz,Yoshihito Nishioka,Yoshihito Nishioka,Yoshihito Nishioka
+Alexander Shevchenko,Carlos Alcaraz,Carlos Alcaraz,Carlos Alcaraz
+Jaume Munar,Casper Ruud,Casper Ruud,Casper Ruud
+Nikoloz Basilashvili,Jakub Mensik,Informações insuficientes para prever o resultado.,Jakub Mensik
 Alejandro Davidovich Fokina,Juncheng Shang,Juncheng Shang,Alejandro Davidovich Fokina
 Felix Auger Aliassime,Jan Lennard Struff,Informações insuficientes para prever o resultado.,Felix Auger Aliassime
 Roberto Carballes Baena,Alejandro Tabilo,Alejandro Tabilo,Roberto Carballes Baena
-James Duckworth,Dominic Stricker,Dominic Stricker,James Duckworth
-Kei Nishikori,Thiago Monteiro,Kei Nishikori,Kei Nishikori
-Tommy Paul,Christopher Oconnell,Tommy Paul,Tommy Paul
-Ugo Humbert,Matteo Gigante,Informações insuficientes para prever o resultado.,Ugo Humbert
-Hady Habib,Bu Yunchaokete,Bu Yunchaokete,Hady Habib
-Quentin Halys,Adam Walton,Quentin Halys,Quentin Halys
+Dominic Stricker,James Duckworth,Dominic Stricker,James Duckworth
+Thiago Monteiro,Kei Nishikori,Kei Nishikori,Kei Nishikori
+Christopher Oconnell,Tommy Paul,Tommy Paul,Tommy Paul
+Matteo Gigante,Ugo Humbert,Informações insuficientes para prever o resultado.,Ugo Humbert
+Bu Yunchaokete,Hady Habib,Bu Yunchaokete,Hady Habib
+Adam Walton,Quentin Halys,Quentin Halys,Quentin Halys
 Arthur Fils,Otto Virtanen,Arthur Fils,Arthur Fils
 Arthur Cazaux,Sebastian Baez,Arthur Cazaux,Arthur Cazaux
 Jacob Fearnley,Nick Kyrgios,Nick Kyrgios,Jacob Fearnley
-Pedro Martinez,Luciano Darderi,Pedro Martinez,Pedro Martinez
-Alexander Zverev,Lucas Pouille,Alexander Zverev,Alexander Zverev
+Luciano Darderi,Pedro Martinez,Pedro Martinez,Pedro Martinez
+Lucas Pouille,Alexander Zverev,Alexander Zverev,Alexander Zverev

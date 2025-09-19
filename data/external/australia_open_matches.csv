@@ -1,128 +1,128 @@
-player_0,player_1
-Jannik Sinner,Alexander Zverev
-Jannik Sinner,Ben Shelton
-Alexander Zverev,Novak Djokovic
-Jannik Sinner,Alex De Minaur
-Ben Shelton,Lorenzo Sonego
-Novak Djokovic,Carlos Alcaraz
-Alexander Zverev,Tommy Paul
-Jannik Sinner,Holger Rune
-Alex De Minaur,Alex Michelsen
-Ben Shelton,Gael Monfils
-Lorenzo Sonego,Learner Tien
-Novak Djokovic,Jiri Lehecka
-Carlos Alcaraz,Jack Draper
-Tommy Paul,Alejandro Davidovich Fokina
-Alexander Zverev,Ugo Humbert
-Jannik Sinner,Marcos Giron
-Holger Rune,Miomir Kecmanovic
-Alex Michelsen,Karen Khachanov
-Alex De Minaur,Francisco Cerundolo
-Gael Monfils,Taylor Fritz
-Ben Shelton,Lorenzo Musetti
-Lorenzo Sonego,Fabian Marozsan
-Learner Tien,Corentin Moutet
-Novak Djokovic,Tomas Machac
-Jiri Lehecka,Benjamin Bonzi
-Jack Draper,Aleksandar Vukic
-Carlos Alcaraz,Nuno Borges
-Alejandro Davidovich Fokina,Jakub Mensik
-Tommy Paul,Roberto Carballes Baena
-Ugo Humbert,Arthur Fils
-Alexander Zverev,Jacob Fearnley
-Jannik Sinner,Tristan Schoolkate
-Marcos Giron,Tomas Martin Etcheverry
-Miomir Kecmanovic,Hubert Hurkacz
-Holger Rune,Matteo Berrettini
-Alex Michelsen,James Mccabe
-Karen Khachanov,Gabriel Diallo
-Francisco Cerundolo,Facundo Diaz Acosta
-Alex De Minaur,Tristan Boyer
-Taylor Fritz,Cristian Garin
-Gael Monfils,Daniel Altmaier
-Ben Shelton,Pablo Carreno Busta
-Lorenzo Musetti,Denis Shapovalov
-Lorenzo Sonego,Joao Fonseca
-Fabian Marozsan,Frances Tiafoe
-Corentin Moutet,Mitchell Krueger
-Learner Tien,Daniil Medvedev
-Novak Djokovic,Jaime Faria
-Tomas Machac,Reilly Opelka
-Jiri Lehecka,Hugo Gaston
-Benjamin Bonzi,Francesco Passaro
-Jack Draper,Thanasi Kokkinakis
-Aleksandar Vukic,Sebastian Korda
-Nuno Borges,Jordan Thompson
-Carlos Alcaraz,Yoshihito Nishioka
-Jakub Mensik,Casper Ruud
-Alejandro Davidovich Fokina,Felix Auger Aliassime
-Roberto Carballes Baena,James Duckworth
-Tommy Paul,Kei Nishikori
-Ugo Humbert,Hady Habib
-Arthur Fils,Quentin Halys
-Jacob Fearnley,Arthur Cazaux
-Alexander Zverev,Pedro Martinez
-Jannik Sinner,Nicolas Jarry
-Tristan Schoolkate,Taro Daniel
-Marcos Giron,Yannick Hanfmann
-Tomas Martin Etcheverry,Flavio Cobolli
-Hubert Hurkacz,Tallon Griekspoor
-Miomir Kecmanovic,Dusan Lajovic
-Matteo Berrettini,Cameron Norrie
-Holger Rune,Zhizhen Zhang
-Alex Michelsen,Stefanos Tsitsipas
-James Mccabe,Martin Landaluce
-Gabriel Diallo,Luca Nardi
-Karen Khachanov,Adrian Mannarino
-Francisco Cerundolo,Alexander Bublik
-Facundo Diaz Acosta,Zizou Bergs
-Tristan Boyer,Federico Coria
-Alex De Minaur,Botic Van De Zandschulp
-Taylor Fritz,Jenson Brooksby
-Cristian Garin,Borna Coric
-Daniel Altmaier,Francisco Comesana
-Gael Monfils,Giovanni Mpetshi Perricard
-Ben Shelton,Brandon Nakashima
-Pablo Carreno Busta,Kamil Majchrzak
-Denis Shapovalov,Roberto Bautista Agut
-Lorenzo Musetti,Matteo Arnaldi
-Joao Fonseca,Andrey Rublev
-Lorenzo Sonego,Stan Wawrinka
-Fabian Marozsan,Thiago Seyboth Wild
-Frances Tiafoe,Arthur Rinderknech
-Corentin Moutet,Alexei Popyrin
-Mitchell Krueger,Rinky Hijikata
-Learner Tien,Camilo Ugo Carabelli
-Daniil Medvedev,Kasidit Samrej
-Novak Djokovic,Nishesh Basavareddy
-Jaime Faria,Pavel Kotov
-Reilly Opelka,Gauthier Onclin
-Tomas Machac,Sumit Nagal
-Jiri Lehecka,Li Tu
-Hugo Gaston,Omar Jasika
-Benjamin Bonzi,David Goffin
-Francesco Passaro,Grigor Dimitrov
-Jack Draper,Mariano Navone
-Thanasi Kokkinakis,Roman Safiullin
-Aleksandar Vukic,Damir Dzumhur
-Sebastian Korda,Lukas Klein
-Jordan Thompson,Dominik Koepfer
-Nuno Borges,Alexandre Muller
-Yoshihito Nishioka,Aziz Dougaz
-Carlos Alcaraz,Alexander Shevchenko
-Casper Ruud,Jaume Munar
-Jakub Mensik,Nikoloz Basilashvili
-Alejandro Davidovich Fokina,Juncheng Shang
-Felix Auger Aliassime,Jan Lennard Struff
-Roberto Carballes Baena,Alejandro Tabilo
-James Duckworth,Dominic Stricker
-Kei Nishikori,Thiago Monteiro
-Tommy Paul,Christopher Oconnell
-Ugo Humbert,Matteo Gigante
-Hady Habib,Bu Yunchaokete
-Quentin Halys,Adam Walton
-Arthur Fils,Otto Virtanen
-Arthur Cazaux,Sebastian Baez
-Jacob Fearnley,Nick Kyrgios
-Pedro Martinez,Luciano Darderi
-Alexander Zverev,Lucas Pouille
+player_0,player_1,winner
+Jannik Sinner,Alexander Zverev,0
+Ben Shelton,Jannik Sinner,1
+Novak Djokovic,Alexander Zverev,1
+Jannik Sinner,Alex De Minaur,0
+Ben Shelton,Lorenzo Sonego,0
+Novak Djokovic,Carlos Alcaraz,0
+Tommy Paul,Alexander Zverev,1
+Jannik Sinner,Holger Rune,0
+Alex Michelsen,Alex De Minaur,1
+Gael Monfils,Ben Shelton,1
+Lorenzo Sonego,Learner Tien,0
+Jiri Lehecka,Novak Djokovic,1
+Carlos Alcaraz,Jack Draper,0
+Alejandro Davidovich Fokina,Tommy Paul,1
+Alexander Zverev,Ugo Humbert,0
+Jannik Sinner,Marcos Giron,0
+Miomir Kecmanovic,Holger Rune,1
+Karen Khachanov,Alex Michelsen,1
+Francisco Cerundolo,Alex De Minaur,1
+Gael Monfils,Taylor Fritz,0
+Ben Shelton,Lorenzo Musetti,0
+Lorenzo Sonego,Fabian Marozsan,0
+Corentin Moutet,Learner Tien,1
+Novak Djokovic,Tomas Machac,0
+Benjamin Bonzi,Jiri Lehecka,1
+Aleksandar Vukic,Jack Draper,1
+Nuno Borges,Carlos Alcaraz,1
+Jakub Mensik,Alejandro Davidovich Fokina,1
+Roberto Carballes Baena,Tommy Paul,1
+Ugo Humbert,Arthur Fils,0
+Jacob Fearnley,Alexander Zverev,1
+Tristan Schoolkate,Jannik Sinner,1
+Tomas Martin Etcheverry,Marcos Giron,1
+Miomir Kecmanovic,Hubert Hurkacz,0
+Holger Rune,Matteo Berrettini,0
+James Mccabe,Alex Michelsen,1
+Karen Khachanov,Gabriel Diallo,0
+Francisco Cerundolo,Facundo Diaz Acosta,0
+Alex De Minaur,Tristan Boyer,0
+Taylor Fritz,Cristian Garin,0
+Gael Monfils,Daniel Altmaier,0
+Ben Shelton,Pablo Carreno Busta,0
+Denis Shapovalov,Lorenzo Musetti,1
+Lorenzo Sonego,Joao Fonseca,0
+Fabian Marozsan,Frances Tiafoe,0
+Corentin Moutet,Mitchell Krueger,0
+Daniil Medvedev,Learner Tien,1
+Novak Djokovic,Jaime Faria,0
+Reilly Opelka,Tomas Machac,1
+Hugo Gaston,Jiri Lehecka,1
+Francesco Passaro,Benjamin Bonzi,1
+Thanasi Kokkinakis,Jack Draper,1
+Aleksandar Vukic,Sebastian Korda,0
+Nuno Borges,Jordan Thompson,0
+Carlos Alcaraz,Yoshihito Nishioka,0
+Casper Ruud,Jakub Mensik,1
+Alejandro Davidovich Fokina,Felix Auger Aliassime,0
+James Duckworth,Roberto Carballes Baena,1
+Tommy Paul,Kei Nishikori,0
+Hady Habib,Ugo Humbert,1
+Arthur Fils,Quentin Halys,0
+Jacob Fearnley,Arthur Cazaux,0
+Alexander Zverev,Pedro Martinez,0
+Jannik Sinner,Nicolas Jarry,0
+Taro Daniel,Tristan Schoolkate,1
+Marcos Giron,Yannick Hanfmann,0
+Flavio Cobolli,Tomas Martin Etcheverry,1
+Tallon Griekspoor,Hubert Hurkacz,1
+Dusan Lajovic,Miomir Kecmanovic,1
+Cameron Norrie,Matteo Berrettini,1
+Zhizhen Zhang,Holger Rune,1
+Stefanos Tsitsipas,Alex Michelsen,1
+James Mccabe,Martin Landaluce,0
+Gabriel Diallo,Luca Nardi,0
+Karen Khachanov,Adrian Mannarino,0
+Alexander Bublik,Francisco Cerundolo,1
+Facundo Diaz Acosta,Zizou Bergs,0
+Federico Coria,Tristan Boyer,1
+Alex De Minaur,Botic Van De Zandschulp,0
+Jenson Brooksby,Taylor Fritz,1
+Borna Coric,Cristian Garin,1
+Francisco Comesana,Daniel Altmaier,1
+Giovanni Mpetshi Perricard,Gael Monfils,1
+Ben Shelton,Brandon Nakashima,0
+Kamil Majchrzak,Pablo Carreno Busta,1
+Roberto Bautista Agut,Denis Shapovalov,1
+Matteo Arnaldi,Lorenzo Musetti,1
+Andrey Rublev,Joao Fonseca,1
+Lorenzo Sonego,Stan Wawrinka,0
+Thiago Seyboth Wild,Fabian Marozsan,1
+Arthur Rinderknech,Frances Tiafoe,1
+Alexei Popyrin,Corentin Moutet,1
+Mitchell Krueger,Rinky Hijikata,0
+Camilo Ugo Carabelli,Learner Tien,1
+Kasidit Samrej,Daniil Medvedev,1
+Novak Djokovic,Nishesh Basavareddy,0
+Pavel Kotov,Jaime Faria,1
+Reilly Opelka,Gauthier Onclin,0
+Tomas Machac,Sumit Nagal,0
+Jiri Lehecka,Li Tu,0
+Hugo Gaston,Omar Jasika,0
+Benjamin Bonzi,David Goffin,0
+Francesco Passaro,Grigor Dimitrov,0
+Jack Draper,Mariano Navone,0
+Roman Safiullin,Thanasi Kokkinakis,1
+Damir Dzumhur,Aleksandar Vukic,1
+Lukas Klein,Sebastian Korda,1
+Jordan Thompson,Dominik Koepfer,0
+Nuno Borges,Alexandre Muller,0
+Aziz Dougaz,Yoshihito Nishioka,1
+Alexander Shevchenko,Carlos Alcaraz,1
+Jaume Munar,Casper Ruud,1
+Nikoloz Basilashvili,Jakub Mensik,1
+Alejandro Davidovich Fokina,Juncheng Shang,0
+Felix Auger Aliassime,Jan Lennard Struff,0
+Roberto Carballes Baena,Alejandro Tabilo,0
+Dominic Stricker,James Duckworth,1
+Thiago Monteiro,Kei Nishikori,1
+Christopher Oconnell,Tommy Paul,1
+Matteo Gigante,Ugo Humbert,1
+Bu Yunchaokete,Hady Habib,1
+Adam Walton,Quentin Halys,1
+Arthur Fils,Otto Virtanen,0
+Arthur Cazaux,Sebastian Baez,0
+Jacob Fearnley,Nick Kyrgios,0
+Luciano Darderi,Pedro Martinez,1
+Lucas Pouille,Alexander Zverev,1
