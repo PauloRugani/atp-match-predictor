@@ -1,6 +1,6 @@
 # ATP MATCH PREDICTOR
 
-This project uses **machine learning** to predict the outcomes of **ATP** (Association of Tennis Professionals) matches. The goal is to predict the winner of head-to-head matches between two players based on their individual statistics. We use supervised learning algorithms implemented with the **scikit-learn** library.
+This project uses **machine learning** to predict the outcomes of **ATP** (Association of Tennis Professionals) matches. The goal is to predict the winner of head-to-head matches between two players based on their individual statistics. We use supervised learning algorithms implemented with the **scikit-learn** and **xgboost** library.
 
 ---
 
@@ -62,15 +62,27 @@ This project was developed and tested with the following dependencies:
 - Key libraries:
   - **pandas**: For data manipulation
   - **numpy**: For numerical operations
-  - **scikit-learn**: For building and evaluating ML models
+  - **scikit-learn** and **xgboost**: For building and evaluating ML models
   - **matplotlib** and **seaborn**: For data visualization
-
+  - **scipy**: For model training visualization
+  - **joblib**: For save the model
+  - **db-sqlite3**: For store the data
+    
 ### Installation
 
 To install all necessary dependencies, use the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+### Run
+
+To run the project:
+
+```bash
+py main.py
 ```
 ---
 
